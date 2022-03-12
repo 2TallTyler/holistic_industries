@@ -1,0 +1,2 @@
+
+switch (FEAT_INDUSTRIES, PARENT, GetPopMultiplier, min(1 + (population / 1000), param_max_multiplier)) {return;}

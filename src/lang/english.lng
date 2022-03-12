@@ -1,0 +1,22 @@
+##grflangid 0x01
+##plural 0
+
+STR_GRF_NAME                        :{TITLE} {VERSION}
+STR_GRF_DESC                        :{ORANGE}Testing testing 123!{}{}{ORANGE}Visit website for more info!{}{}{BLACK}Created by 2TallTyler.
+
+STR_WEBSITE                         :https://github.com/2TallTyler/minimalist_industries
+
+STR_ERROR_GAME_VERSION              :{TITLE} requires OpenTTD version 1.10.0, JGR version 0.34, or better.
+STR_ERROR_INCOMPATIBLE_SET          :{YELLOW}{TITLE}{WHITE} is incompatible with {YELLOW}{STRING}{WHITE}.
+
+STR_TOWN                            :{STRING}
+STR_STATION                         :{STRING} {STRING}
+
+STR_NAME_MAX_MULTIPLIER             :Max population multiplier
+STR_DESC_MAX_MULTIPLIER             :The maximum production multiplier possible from each thousand town population.
+
+STR_NAME_OBJECT_MENU                :Industry Tiles
+
+STR_NAME_COAL_MINE                  :Coal Mine
+STR_NAME_IRON_MINE                  :Iron Mine
+STR_NAME_STEEL_MILL                 :Steel Mill
